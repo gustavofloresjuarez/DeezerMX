@@ -26,7 +26,7 @@ dcloud_token = "" #DCLOUD TOKEN
 download_server = "" #URL to download server (http://github.com/superdima05/deezer-grabber-server/)
 #Download server
 
-music_dir = "/data/data/com.termux/files/home/storage/music"
+music_dir = "/content/drive/MyDrive/Hi-Res 4"
 
 client = deezer.Client()
 arguments = sys.argv[1:]

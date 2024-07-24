@@ -1,0 +1,4 @@
+requests
+transliterate
+deezer-python
+mutagen
